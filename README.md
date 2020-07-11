@@ -26,7 +26,7 @@ A air-like drawtype version of a waterfall basin
   
 **Lavafall Block, Basin, Fountain, etc**
 Works the same way for lava as above nodes, using turbulent lava buckets:
-![ScreenShot](/Screenshot_2.jpg)
+![ScreenShot](/Screenshot_1.jpg)
 
 **Whirlpool Machine:**
   A furnace-like node that allows a user to input a bucket of water (or lava) and a mese fragment (or quartz crystal). Then after pulling a lever, the device  
